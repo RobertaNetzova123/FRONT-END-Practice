@@ -1,0 +1,28 @@
+
+.input {
+    margin-bottom: 4rem;
+    
+}
+.input * {
+    margin-right: 1rem;
+}
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+td {
+    font-size: 1em;
+    background-color: rgba(247, 242, 242, 0.816);
+    text-align: center;
+}
+
+
+
+.first {
+    background-color: green;
+}
